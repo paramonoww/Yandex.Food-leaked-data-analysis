@@ -3,4 +3,4 @@ I decided to make a project using recent (23.03.2022) leaked data of Yandex.Food
 WARNING!
 The whole project is written in Russian as I suppose there will be no discussion among english speaking people as most of them don't know what Yandex is.
 
-The work is still in process, so don't blame for unifinished work.
+The work is still in process, so don't blame for unfinished work.
